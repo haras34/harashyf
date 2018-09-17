@@ -1,6 +1,24 @@
 body{
-    background-color: aquamarine;
+    background-image: url("http://avante.biz/wp-content/uploads/Background-image-for-computer/Background-image-for-computer-024.jpg")
 }
-.weatherInfo{
-    background-color: bisque;
+.border-of-image {
+    border-radius: 50%;
+  }
+  p{
+      font-family: monospace;
+      font-size: 1.5rem;
+      color: white;
+  }
+  h1{
+      font-family: monospace;
+      color: white;
+  }
+  h2{
+    font-family: monospace;
+    color: white;
+    }
+.column-making{
+    column-count: 2;
+    column-gap: 50%;
+
 }
